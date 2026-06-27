@@ -1,2 +1,2 @@
 # customer-support-analytics
-Customer Support Analytics Portfolio Project
+Customer Support Analytics - Portfólio de Projetos
